@@ -59,4 +59,4 @@ observer.observe(document.body, { childList: true, subtree: true });
 
 // Initial attempt to hide and click in case the elements are already present
 hideForYouTab();
-clickFollowingTab(); 
+clickFollowingTab();
